@@ -1,0 +1,2117 @@
+2022-07-08 17:01:22,Q83SV5,https://www.uniprot.org/uniprot/Q83SV5.fasta,error: return html is Null 
+2022-07-08 17:01:56,Q8FGN5,https://www.uniprot.org/uniprot/Q8FGN5.fasta,error: return html is Null 
+2022-07-08 17:02:15,Q11S56,https://www.uniprot.org/uniprot/Q11S56.fasta,error: return html is Null 
+2022-07-08 17:02:17,Q6M720,https://www.uniprot.org/uniprot/Q6M720.fasta,error: return html is Null 
+2022-07-08 17:02:42,Q97Q24,https://www.uniprot.org/uniprot/Q97Q24.fasta,error: return html is Null 
+2022-07-08 17:03:11,Q97RK1,https://www.uniprot.org/uniprot/Q97RK1.fasta,error: return html is Null 
+2022-07-08 17:03:21,A6B4T0,https://www.uniprot.org/uniprot/A6B4T0.fasta,error: return html is Null 
+2022-07-08 17:03:51,Q8NW41,https://www.uniprot.org/uniprot/Q8NW41.fasta,error: return html is Null 
+2022-07-08 17:04:14,Q97NG6,https://www.uniprot.org/uniprot/Q97NG6.fasta,error: return html is Null 
+2022-07-08 17:04:24,O31667,https://www.uniprot.org/uniprot/O31667.fasta,error: return 443 
+2022-07-08 17:04:27,Q97T51,https://www.uniprot.org/uniprot/Q97T51.fasta,error: return html is Null 
+2022-07-08 17:04:43,A5LSE1,https://www.uniprot.org/uniprot/A5LSE1.fasta,error: return html is Null 
+2022-07-08 17:04:49,Q047K1,https://www.uniprot.org/uniprot/Q047K1.fasta,error: return html is Null 
+2022-07-08 17:04:50,A5LVA8,https://www.uniprot.org/uniprot/A5LVA8.fasta,error: return html is Null 
+2022-07-08 17:04:55,Q99W54,https://www.uniprot.org/uniprot/Q99W54.fasta,error: return html is Null 
+2022-07-08 17:04:59,Q99RV3,https://www.uniprot.org/uniprot/Q99RV3.fasta,error: return html is Null 
+2022-07-08 17:05:07,Q049B0,https://www.uniprot.org/uniprot/Q049B0.fasta,error: return html is Null 
+2022-07-08 17:05:13,C2JBT4,https://www.uniprot.org/uniprot/C2JBT4.fasta,error: return html is Null 
+2022-07-08 17:05:30,Q6M863,https://www.uniprot.org/uniprot/Q6M863.fasta,error: return html is Null 
+2022-07-08 17:06:15,共计218条，已存在0，待爬取218条，完成199条，失败19条 
+2022-07-08 21:22:12,Q83SV5,https://www.uniprot.org/uniprot/Q83SV5.fasta,error: return html is Null 
+2022-07-08 21:22:50,Q8FGN5,https://www.uniprot.org/uniprot/Q8FGN5.fasta,error: return html is Null 
+2022-07-08 21:23:07,Q11S56,https://www.uniprot.org/uniprot/Q11S56.fasta,error: return html is Null 
+2022-07-08 21:23:09,Q6M720,https://www.uniprot.org/uniprot/Q6M720.fasta,error: return html is Null 
+2022-07-08 21:24:13,Q97Q24,https://www.uniprot.org/uniprot/Q97Q24.fasta,error: return html is Null 
+2022-07-08 21:24:43,Q97RK1,https://www.uniprot.org/uniprot/Q97RK1.fasta,error: return html is Null 
+2022-07-08 21:24:53,A6B4T0,https://www.uniprot.org/uniprot/A6B4T0.fasta,error: return html is Null 
+2022-07-08 21:25:32,Q8NW41,https://www.uniprot.org/uniprot/Q8NW41.fasta,error: return html is Null 
+2022-07-08 21:25:55,Q97NG6,https://www.uniprot.org/uniprot/Q97NG6.fasta,error: return html is Null 
+2022-07-08 21:26:04,Q97T51,https://www.uniprot.org/uniprot/Q97T51.fasta,error: return html is Null 
+2022-07-08 21:27:09,Q89YN2,https://www.uniprot.org/uniprot/Q89YN2.fasta,error: return 443 
+2022-07-08 21:27:11,A5LSE1,https://www.uniprot.org/uniprot/A5LSE1.fasta,error: return html is Null 
+2022-07-08 21:29:28,Q9KMS7,https://www.uniprot.org/uniprot/Q9KMS7.fasta,error: return 443 
+2022-07-08 21:29:31,Q047K1,https://www.uniprot.org/uniprot/Q047K1.fasta,error: return html is Null 
+2022-07-08 21:29:33,A5LVA8,https://www.uniprot.org/uniprot/A5LVA8.fasta,error: return html is Null 
+2022-07-08 21:29:38,Q99W54,https://www.uniprot.org/uniprot/Q99W54.fasta,error: return html is Null 
+2022-07-08 21:29:41,Q99RV3,https://www.uniprot.org/uniprot/Q99RV3.fasta,error: return html is Null 
+2022-07-08 21:29:50,Q049B0,https://www.uniprot.org/uniprot/Q049B0.fasta,error: return html is Null 
+2022-07-08 21:29:56,C2JBT4,https://www.uniprot.org/uniprot/C2JBT4.fasta,error: return html is Null 
+2022-07-08 21:30:14,Q6M863,https://www.uniprot.org/uniprot/Q6M863.fasta,error: return html is Null 
+2022-07-08 21:30:57,共计218条，已存在0，待爬取218条，完成198条，失败20条 
+2022-07-10 17:01:11,501310,https://www.uniprot.org/uniprot/501310.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:12,501392,https://www.uniprot.org/uniprot/501392.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:14,502337,https://www.uniprot.org/uniprot/502337.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:16,502340,https://www.uniprot.org/uniprot/502340.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:18,508056,https://www.uniprot.org/uniprot/508056.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:20,508203,https://www.uniprot.org/uniprot/508203.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:21,508277,https://www.uniprot.org/uniprot/508277.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:23,508464,https://www.uniprot.org/uniprot/508464.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:25,508533,https://www.uniprot.org/uniprot/508533.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:27,508539,https://www.uniprot.org/uniprot/508539.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:28,900098,https://www.uniprot.org/uniprot/900098.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:30,900099,https://www.uniprot.org/uniprot/900099.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:32,900100,https://www.uniprot.org/uniprot/900100.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:33,900102,https://www.uniprot.org/uniprot/900102.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:35,900103,https://www.uniprot.org/uniprot/900103.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:37,900112,https://www.uniprot.org/uniprot/900112.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:38,900117,https://www.uniprot.org/uniprot/900117.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:40,900129,https://www.uniprot.org/uniprot/900129.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:42,900135,https://www.uniprot.org/uniprot/900135.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:43,900161,https://www.uniprot.org/uniprot/900161.fasta,error: resp.status_code or exception 
+2022-07-10 17:01:43,共计218条，已存在198，待爬取20条，完成0条，失败20条 
+2022-07-10 22:34:34,501310,https://www.uniprot.org/uniprot/501310.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:35,501392,https://www.uniprot.org/uniprot/501392.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:37,502337,https://www.uniprot.org/uniprot/502337.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:39,502340,https://www.uniprot.org/uniprot/502340.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:40,508056,https://www.uniprot.org/uniprot/508056.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:42,508203,https://www.uniprot.org/uniprot/508203.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:44,508277,https://www.uniprot.org/uniprot/508277.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:45,508464,https://www.uniprot.org/uniprot/508464.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:47,508533,https://www.uniprot.org/uniprot/508533.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:49,508539,https://www.uniprot.org/uniprot/508539.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:50,900098,https://www.uniprot.org/uniprot/900098.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:52,900099,https://www.uniprot.org/uniprot/900099.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:54,900100,https://www.uniprot.org/uniprot/900100.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:55,900102,https://www.uniprot.org/uniprot/900102.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:57,900103,https://www.uniprot.org/uniprot/900103.fasta,error: resp.status_code or exception 
+2022-07-10 22:34:59,900112,https://www.uniprot.org/uniprot/900112.fasta,error: resp.status_code or exception 
+2022-07-10 22:35:01,900117,https://www.uniprot.org/uniprot/900117.fasta,error: resp.status_code or exception 
+2022-07-10 22:35:02,900129,https://www.uniprot.org/uniprot/900129.fasta,error: resp.status_code or exception 
+2022-07-10 22:35:04,900135,https://www.uniprot.org/uniprot/900135.fasta,error: resp.status_code or exception 
+2022-07-10 22:35:06,900161,https://www.uniprot.org/uniprot/900161.fasta,error: resp.status_code or exception 
+2022-07-10 22:35:06,共计218条，已存在198，待爬取20条，完成0条，失败20条 
+2022-07-11 10:52:38,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 10:52:38,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 10:52:38,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 10:52:38,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:52:38,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 10:52:38,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:52:38,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 10:52:38,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:52:38,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:52:38,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:52:38,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 10:52:38,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 10:52:38,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 10:52:38,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:52:38,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 10:52:38,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 10:52:38,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 10:52:38,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 10:52:38,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:52:38,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:52:38,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 10:52:38,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 10:52:38,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:52:38,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 10:52:38,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 10:52:38,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 10:52:38,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 10:52:38,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:52:38,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 10:52:38,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 10:52:38,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 10:52:38,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 10:52:38,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 10:52:38,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:52:38,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:52:38,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 10:52:38,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 10:52:38,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 10:52:38,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 10:52:38,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 10:52:38,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 10:52:38,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 10:52:38,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 10:52:38,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 10:52:38,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 10:52:38,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 10:52:38,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:52:38,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:52:38,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:52:38,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:52:38,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:52:38,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 10:52:38,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 10:52:38,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:52:38,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:52:38,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:52:38,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:52:38,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:52:38,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:52:38,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 10:52:38,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 10:52:38,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 10:52:38,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 10:52:38,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 10:52:38,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 10:52:38,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 10:52:38,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:52:38,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 10:52:38,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 10:52:38,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 10:52:38,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 10:52:38,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 10:52:38,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 10:52:38,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 10:52:38,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 10:52:38,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 10:52:38,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 10:52:38,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 10:52:38,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 10:52:38,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 10:52:38,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 10:52:38,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 10:52:38,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 10:52:38,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 10:52:38,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 10:52:38,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:52:38,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 10:52:38,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:52:38,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:52:38,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 10:56:31,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 10:56:31,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 10:56:31,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:31,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 10:56:31,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:31,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 10:56:31,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:31,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:31,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:31,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 10:56:31,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 10:56:31,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 10:56:31,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:31,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 10:56:31,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 10:56:31,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 10:56:31,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 10:56:31,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:31,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:31,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 10:56:31,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 10:56:31,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:31,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 10:56:31,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 10:56:31,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 10:56:31,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 10:56:31,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:31,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 10:56:31,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:31,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 10:56:31,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:31,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:31,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:31,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:31,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 10:56:31,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 10:56:31,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 10:56:31,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 10:56:31,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 10:56:31,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 10:56:31,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 10:56:31,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 10:56:31,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 10:56:31,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 10:56:31,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 10:56:31,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:31,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:31,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:31,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:31,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:31,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 10:56:31,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 10:56:31,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:31,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:31,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:31,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:31,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:31,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:31,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 10:56:31,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 10:56:31,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 10:56:31,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 10:56:31,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 10:56:31,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 10:56:31,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 10:56:31,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:31,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 10:56:31,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 10:56:31,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 10:56:31,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 10:56:31,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 10:56:31,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 10:56:31,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 10:56:31,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 10:56:31,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 10:56:31,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 10:56:31,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 10:56:31,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 10:56:31,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 10:56:31,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 10:56:31,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 10:56:31,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 10:56:31,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 10:56:31,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 10:56:31,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:31,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 10:56:31,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:31,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:31,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 10:56:41,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 10:56:41,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 10:56:41,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:41,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 10:56:41,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:41,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 10:56:41,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:41,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:41,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:41,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 10:56:41,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 10:56:41,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 10:56:41,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:41,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 10:56:41,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 10:56:41,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 10:56:41,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 10:56:41,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:41,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:41,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 10:56:41,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 10:56:41,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:41,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 10:56:41,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 10:56:41,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 10:56:41,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 10:56:41,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:41,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 10:56:41,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:41,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 10:56:41,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:41,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:41,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:41,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:41,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 10:56:41,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 10:56:41,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 10:56:41,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 10:56:41,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 10:56:41,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 10:56:41,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 10:56:41,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 10:56:41,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 10:56:41,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 10:56:41,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 10:56:41,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:41,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:41,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:41,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:41,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:41,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 10:56:41,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 10:56:41,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:41,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:41,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:41,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:41,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:41,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:41,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 10:56:41,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 10:56:41,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 10:56:41,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 10:56:41,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 10:56:41,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 10:56:41,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 10:56:41,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:41,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 10:56:41,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 10:56:41,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 10:56:41,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 10:56:41,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 10:56:41,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 10:56:41,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 10:56:41,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 10:56:41,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 10:56:41,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 10:56:41,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 10:56:41,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 10:56:41,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 10:56:41,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 10:56:41,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 10:56:41,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 10:56:41,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 10:56:41,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 10:56:41,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:41,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 10:56:41,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:41,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:41,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 10:56:58,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 10:56:58,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 10:56:58,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:58,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 10:56:58,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:58,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 10:56:58,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:58,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:58,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:58,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 10:56:58,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 10:56:58,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 10:56:58,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:58,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 10:56:58,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 10:56:58,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 10:56:58,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 10:56:58,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:58,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:58,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 10:56:58,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 10:56:58,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:58,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 10:56:58,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 10:56:58,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 10:56:58,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 10:56:58,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:58,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 10:56:58,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:58,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 10:56:58,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:58,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:58,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:58,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:58,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 10:56:58,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 10:56:58,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 10:56:58,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 10:56:58,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 10:56:58,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 10:56:58,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 10:56:58,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 10:56:58,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 10:56:58,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 10:56:58,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 10:56:58,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:58,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:58,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:58,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:58,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:58,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 10:56:58,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 10:56:58,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:58,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 10:56:58,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:58,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:58,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:58,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 10:56:58,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 10:56:58,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 10:56:58,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 10:56:58,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 10:56:58,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 10:56:58,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 10:56:58,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 10:56:58,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 10:56:58,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 10:56:58,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 10:56:58,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 10:56:58,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 10:56:58,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 10:56:58,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 10:56:58,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 10:56:58,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 10:56:58,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 10:56:58,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 10:56:58,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 10:56:58,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 10:56:58,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 10:56:58,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 10:56:58,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 10:56:58,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 10:56:58,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 10:56:58,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 10:56:58,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:58,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 10:56:58,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 10:56:58,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 10:56:58,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 11:05:06,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 11:05:06,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 11:05:06,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:06,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 11:05:06,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:06,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 11:05:06,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:06,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:06,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:06,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 11:05:06,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 11:05:06,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 11:05:06,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:06,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:05:06,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 11:05:06,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 11:05:06,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 11:05:06,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:06,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:06,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:05:06,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 11:05:06,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:06,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:05:06,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:05:06,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 11:05:06,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:05:06,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:06,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:05:06,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:06,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 11:05:06,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:06,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:06,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:06,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:06,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 11:05:06,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 11:05:06,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:05:06,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:05:06,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:05:06,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 11:05:06,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 11:05:06,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 11:05:06,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 11:05:06,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:05:06,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:05:06,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:05:06,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:05:06,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:05:06,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:05:06,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:05:06,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:05:06,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:05:06,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:05:06,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:05:06,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:05:06,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:05:06,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:05:06,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:05:06,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 11:05:06,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 11:05:06,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 11:05:06,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 11:05:06,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 11:05:06,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 11:05:06,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 11:05:06,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:06,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 11:05:06,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 11:05:06,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:05:06,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 11:05:06,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 11:05:06,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 11:05:06,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 11:05:06,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:05:06,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 11:05:06,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:05:06,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 11:05:06,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:05:06,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 11:05:06,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 11:05:06,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 11:05:06,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 11:05:06,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 11:05:06,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 11:05:06,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:06,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 11:05:06,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:06,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:06,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 11:05:57,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 11:05:57,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 11:05:57,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:57,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 11:05:57,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:57,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 11:05:57,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:57,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:57,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:57,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 11:05:57,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 11:05:57,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 11:05:57,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:57,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:05:57,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 11:05:57,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 11:05:57,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 11:05:57,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:57,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:57,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:05:57,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 11:05:57,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:57,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:05:57,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:05:57,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 11:05:57,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:05:57,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:57,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:05:57,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:57,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 11:05:57,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:57,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:57,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:57,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:57,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 11:05:57,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 11:05:57,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:05:57,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:05:57,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:05:57,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 11:05:57,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 11:05:57,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 11:05:57,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 11:05:57,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:05:57,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:05:57,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:05:57,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:05:57,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:05:57,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:05:57,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:05:57,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:05:57,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:05:57,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:05:57,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:05:57,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:05:57,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:05:57,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:05:57,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:05:57,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 11:05:57,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 11:05:57,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 11:05:57,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 11:05:57,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 11:05:57,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 11:05:57,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 11:05:57,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:05:57,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 11:05:57,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 11:05:57,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:05:57,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 11:05:57,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 11:05:57,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 11:05:57,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 11:05:57,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:05:57,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 11:05:57,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:05:57,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 11:05:57,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:05:57,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 11:05:57,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 11:05:57,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 11:05:57,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 11:05:57,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 11:05:57,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 11:05:57,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:57,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 11:05:57,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:05:57,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:05:57,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 11:06:46,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 11:06:46,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 11:06:46,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:06:46,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 11:06:46,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:06:46,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 11:06:46,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:06:46,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:06:46,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:06:46,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 11:06:46,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 11:06:46,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 11:06:46,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:06:46,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:06:46,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 11:06:46,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 11:06:46,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 11:06:46,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:06:46,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:06:46,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:06:46,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 11:06:46,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:06:46,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:06:46,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:06:46,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 11:06:46,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:06:46,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:06:46,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:06:46,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:06:46,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 11:06:46,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:06:46,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:06:46,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:06:46,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:06:46,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 11:06:46,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 11:06:46,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:06:46,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:06:46,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:06:46,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 11:06:46,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 11:06:46,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 11:06:46,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 11:06:46,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:06:46,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:06:46,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:06:46,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:06:46,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:06:46,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:06:46,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:06:46,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:06:46,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:06:46,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:06:46,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:06:46,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:06:46,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:06:46,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:06:46,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:06:46,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 11:06:46,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 11:06:46,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 11:06:46,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 11:06:46,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 11:06:46,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 11:06:46,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 11:06:46,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:06:46,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 11:06:46,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 11:06:46,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:06:46,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 11:06:46,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 11:06:46,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 11:06:46,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 11:06:46,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:06:46,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 11:06:46,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:06:46,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 11:06:46,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:06:46,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 11:06:46,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 11:06:46,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 11:06:46,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 11:06:46,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 11:06:46,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 11:06:46,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:06:46,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 11:06:46,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:06:46,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:06:46,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 11:07:29,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 11:07:29,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 11:07:29,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:07:29,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 11:07:29,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:07:29,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 11:07:29,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:07:29,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:07:29,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:07:29,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 11:07:29,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 11:07:29,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 11:07:29,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:07:29,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:07:29,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 11:07:29,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 11:07:29,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 11:07:29,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:07:29,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:07:29,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:07:29,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 11:07:29,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:07:29,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:07:29,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:07:29,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 11:07:29,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:07:29,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:07:29,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:07:29,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:07:29,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 11:07:29,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:07:29,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:07:29,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:07:29,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:07:29,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 11:07:29,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 11:07:29,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:07:29,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:07:29,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:07:29,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 11:07:29,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 11:07:29,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 11:07:29,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 11:07:29,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:07:29,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:07:29,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:07:29,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:07:29,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:07:29,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:07:29,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:07:29,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:07:29,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:07:29,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:07:29,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:07:29,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:07:29,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:07:29,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:07:29,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:07:29,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 11:07:29,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 11:07:29,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 11:07:29,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 11:07:29,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 11:07:29,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 11:07:29,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 11:07:29,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:07:29,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 11:07:29,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 11:07:29,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:07:29,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 11:07:29,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 11:07:29,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 11:07:29,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 11:07:29,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:07:29,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 11:07:29,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:07:29,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 11:07:29,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:07:29,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 11:07:29,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 11:07:29,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 11:07:29,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 11:07:29,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 11:07:29,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 11:07:29,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:07:29,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 11:07:29,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:07:29,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:07:29,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 11:09:38,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 11:09:38,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 11:09:38,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:09:38,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 11:09:38,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:09:38,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 11:09:38,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:09:38,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:09:38,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:09:38,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 11:09:38,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 11:09:38,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 11:09:38,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:09:38,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:09:38,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 11:09:38,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 11:09:38,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 11:09:38,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:09:38,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:09:38,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:09:38,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 11:09:38,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:09:38,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:09:38,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:09:38,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 11:09:38,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:09:38,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:09:38,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:09:38,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:09:38,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 11:09:38,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:09:38,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:09:38,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:09:38,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:09:38,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 11:09:38,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 11:09:38,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:09:38,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:09:38,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:09:38,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 11:09:38,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 11:09:38,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 11:09:38,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 11:09:38,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:09:38,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:09:38,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:09:38,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:09:38,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:09:38,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:09:38,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:09:38,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:09:38,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:09:38,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:09:38,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:09:38,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:09:38,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:09:38,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:09:38,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:09:38,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 11:09:38,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 11:09:38,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 11:09:38,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 11:09:38,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 11:09:38,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 11:09:38,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 11:09:38,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:09:38,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 11:09:38,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 11:09:38,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:09:38,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 11:09:38,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 11:09:38,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 11:09:38,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 11:09:38,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:09:38,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 11:09:38,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:09:38,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 11:09:38,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:09:38,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 11:09:38,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 11:09:38,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 11:09:38,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 11:09:38,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 11:09:38,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 11:09:38,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:09:38,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 11:09:38,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:09:38,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:09:38,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 11:17:05,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 11:17:05,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 11:17:05,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:05,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 11:17:05,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:05,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 11:17:05,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:05,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:05,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:05,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 11:17:05,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 11:17:05,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 11:17:05,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:05,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:17:05,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 11:17:05,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 11:17:05,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 11:17:05,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:05,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:05,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:17:05,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 11:17:05,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:05,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:17:05,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:17:05,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 11:17:05,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:17:05,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:05,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:17:05,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:05,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 11:17:05,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:05,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:05,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:05,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:05,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 11:17:05,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 11:17:05,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:17:05,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:17:05,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:17:05,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 11:17:05,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 11:17:05,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 11:17:05,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 11:17:05,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:17:05,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:17:05,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:17:05,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:17:05,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:17:05,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:17:05,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:17:05,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:17:05,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:17:05,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:17:05,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:17:05,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:17:05,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:17:05,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:17:05,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:17:05,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 11:17:05,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 11:17:05,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 11:17:05,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 11:17:05,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 11:17:05,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 11:17:05,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 11:17:05,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:05,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 11:17:05,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 11:17:05,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:17:05,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 11:17:05,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 11:17:05,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 11:17:05,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 11:17:05,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:17:05,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 11:17:05,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:17:05,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 11:17:05,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:17:05,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 11:17:05,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 11:17:05,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 11:17:05,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 11:17:05,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 11:17:05,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 11:17:05,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:05,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 11:17:05,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:05,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:05,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 11:17:55,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 11:17:55,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 11:17:55,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:55,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 11:17:55,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:55,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 11:17:55,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:55,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:55,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:55,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 11:17:55,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 11:17:55,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 11:17:55,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:55,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:17:55,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 11:17:55,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 11:17:55,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 11:17:55,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:55,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:55,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:17:55,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 11:17:55,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:55,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:17:55,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:17:55,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 11:17:55,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:17:55,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:55,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:17:55,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:55,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 11:17:55,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:55,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:55,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:55,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:55,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 11:17:55,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 11:17:55,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:17:55,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:17:55,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:17:55,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 11:17:55,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 11:17:55,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 11:17:55,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 11:17:55,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:17:55,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:17:55,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:17:55,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:17:55,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:17:55,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:17:55,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:17:55,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:17:55,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:17:55,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:17:55,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:17:55,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:17:55,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:17:55,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:17:55,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:17:55,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 11:17:55,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 11:17:55,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 11:17:55,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 11:17:55,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 11:17:55,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 11:17:55,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 11:17:55,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:17:55,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 11:17:55,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 11:17:55,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:17:55,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 11:17:55,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 11:17:55,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 11:17:55,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 11:17:55,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:17:55,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 11:17:55,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:17:55,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 11:17:55,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:17:55,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 11:17:55,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 11:17:55,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 11:17:55,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 11:17:55,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 11:17:55,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 11:17:55,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:55,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 11:17:55,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:17:55,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:17:55,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 11:21:14,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 11:21:14,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 11:21:14,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:21:14,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 11:21:14,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:21:14,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 11:21:14,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:21:14,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:21:14,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:21:14,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 11:21:14,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 11:21:14,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 11:21:14,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:21:14,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:21:14,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 11:21:14,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 11:21:14,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 11:21:14,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:21:14,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:21:14,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:21:14,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 11:21:14,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:21:14,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:21:14,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:21:14,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 11:21:14,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:21:14,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:21:14,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:21:14,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:21:14,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 11:21:14,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:21:14,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:21:14,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:21:14,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:21:14,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 11:21:14,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 11:21:14,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:21:14,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:21:14,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:21:14,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 11:21:14,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 11:21:14,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 11:21:14,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 11:21:14,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:21:14,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:21:14,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:21:14,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:21:14,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:21:14,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:21:14,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:21:14,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:21:14,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:21:14,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:21:14,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:21:14,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:21:14,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:21:14,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:21:14,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:21:14,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 11:21:14,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 11:21:14,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 11:21:14,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 11:21:14,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 11:21:14,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 11:21:14,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 11:21:14,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:21:14,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 11:21:14,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 11:21:14,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:21:14,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 11:21:14,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 11:21:14,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 11:21:14,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 11:21:14,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:21:14,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 11:21:14,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:21:14,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 11:21:14,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:21:14,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 11:21:14,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 11:21:14,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 11:21:14,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 11:21:14,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 11:21:14,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 11:21:14,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:21:14,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 11:21:14,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:21:14,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:21:14,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 11:39:08,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 11:39:08,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 11:39:08,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:08,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 11:39:08,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:08,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 11:39:08,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:08,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:08,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:08,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 11:39:08,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 11:39:08,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 11:39:08,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:08,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:39:08,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 11:39:08,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 11:39:08,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 11:39:08,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:08,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:08,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:39:08,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 11:39:08,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:08,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:39:08,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:39:08,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 11:39:08,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:39:08,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:08,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:39:08,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:08,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 11:39:08,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:08,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:08,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:08,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:08,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 11:39:08,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 11:39:08,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:39:08,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:39:08,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:39:08,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 11:39:08,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 11:39:08,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 11:39:08,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 11:39:08,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:39:08,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:39:08,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:39:08,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:39:08,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:39:08,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:39:08,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:39:08,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:39:08,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:39:08,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:39:08,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:39:08,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:39:08,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:39:08,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:39:08,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:39:08,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 11:39:08,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 11:39:08,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 11:39:08,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 11:39:08,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 11:39:08,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 11:39:08,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 11:39:08,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:08,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 11:39:08,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 11:39:08,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:39:08,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 11:39:08,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 11:39:08,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 11:39:08,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 11:39:08,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:39:08,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 11:39:08,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:39:08,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 11:39:08,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:39:08,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 11:39:08,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 11:39:08,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 11:39:08,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 11:39:08,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 11:39:08,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 11:39:08,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:08,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 11:39:08,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:08,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:08,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 11:39:25,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 11:39:25,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 11:39:25,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:25,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 11:39:25,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:25,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 11:39:25,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:25,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:25,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:25,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 11:39:25,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 11:39:25,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 11:39:25,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:25,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:39:25,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 11:39:25,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 11:39:25,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 11:39:25,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:25,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:25,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:39:25,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 11:39:25,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:25,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:39:25,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:39:25,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 11:39:25,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:39:25,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:25,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:39:25,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:25,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 11:39:25,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:25,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:25,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:25,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:25,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 11:39:25,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 11:39:25,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:39:25,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:39:25,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:39:25,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 11:39:25,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 11:39:25,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 11:39:25,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 11:39:25,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:39:25,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:39:25,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:39:25,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:39:25,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:39:25,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:39:25,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:39:25,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:39:25,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:39:25,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:39:25,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:39:25,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:39:25,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:39:25,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:39:25,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:39:25,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 11:39:25,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 11:39:25,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 11:39:25,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 11:39:25,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 11:39:25,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 11:39:25,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 11:39:25,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:39:25,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 11:39:25,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 11:39:25,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:39:25,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 11:39:25,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 11:39:25,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 11:39:25,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 11:39:25,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:39:25,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 11:39:25,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:39:25,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 11:39:25,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:39:25,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 11:39:25,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 11:39:25,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 11:39:25,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 11:39:25,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 11:39:25,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 11:39:25,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:25,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 11:39:25,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:39:25,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:39:25,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 11:42:51,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 11:42:51,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 11:42:51,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:42:51,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 11:42:51,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:42:51,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 11:42:51,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:42:51,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:42:51,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:42:51,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 11:42:51,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 11:42:51,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 11:42:51,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:42:51,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:42:51,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 11:42:51,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 11:42:51,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 11:42:51,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:42:51,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:42:51,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:42:51,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 11:42:51,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:42:51,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:42:51,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:42:51,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 11:42:51,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:42:51,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:42:51,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:42:51,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:42:51,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 11:42:51,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:42:51,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:42:51,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:42:51,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:42:51,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 11:42:51,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 11:42:51,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:42:51,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:42:51,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:42:51,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 11:42:51,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 11:42:51,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 11:42:51,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 11:42:51,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:42:51,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:42:51,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:42:51,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:42:51,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:42:51,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:42:51,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:42:51,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:42:51,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:42:51,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:42:51,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:42:51,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:42:51,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:42:51,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:42:51,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:42:51,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 11:42:51,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 11:42:51,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 11:42:51,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 11:42:51,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 11:42:51,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 11:42:51,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 11:42:51,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:42:51,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 11:42:51,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 11:42:51,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:42:51,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 11:42:51,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 11:42:51,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 11:42:51,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 11:42:51,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:42:51,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 11:42:51,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:42:51,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 11:42:51,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:42:51,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 11:42:51,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 11:42:51,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 11:42:51,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 11:42:51,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 11:42:51,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 11:42:51,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:42:51,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 11:42:51,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:42:51,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:42:51,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-11 11:46:43,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-11 11:46:43,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-11 11:46:43,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:46:43,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-11 11:46:43,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:46:43,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-11 11:46:43,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:46:43,12, D-Fructose 6-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:46:43,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:46:43,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-11 11:46:43,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-11 11:46:43,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-11 11:46:43,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:46:43,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:46:43,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-11 11:46:43,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-11 11:46:43,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-11 11:46:43,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:46:43,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:46:43,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:46:43,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-11 11:46:43,27, L-Xylitol-5-P, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:46:43,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:46:43,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:46:43,30, D-Galactitol-1-P, OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-11 11:46:43,31, D-Mannitol-1-P, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-11 11:46:43,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:46:43,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,36, 2-deoxyribose 5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-11 11:46:43,37, D-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,38, L-Xylose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,39, D-Lyxose-5-P, C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:46:43,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-11 11:46:43,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:46:43,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-11 11:46:43,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:46:43,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:46:43,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-11 11:46:43,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-11 11:46:43,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:46:43,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:46:43,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-11 11:46:43,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-11 11:46:43,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-11 11:46:43,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-11 11:46:43,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-11 11:46:43,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:46:43,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-11 11:46:43,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:46:43,63, UDP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:46:43,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:46:43,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:46:43,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:46:43,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:46:43,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:46:43,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:46:43,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-11 11:46:43,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:46:43,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:46:43,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:46:43,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-11 11:46:43,75, Uridine-5'-diphosphoglucuronic acid, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-11 11:46:43,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-11 11:46:43,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-11 11:46:43,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-11 11:46:43,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-11 11:46:43,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-11 11:46:43,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-11 11:46:43,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-11 11:46:43,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-11 11:46:43,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-11 11:46:43,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-11 11:46:43,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-11 11:46:43,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-11 11:46:43,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-11 11:46:43,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-11 11:46:43,97, UMP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:46:43,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-11 11:46:43,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-11 11:46:43,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-11 11:46:43,101, GMP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-11 11:46:43,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-11 11:46:43,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-11 11:46:43,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-11 11:46:43,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-11 11:46:43,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-11 11:46:43,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-11 11:46:43,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:46:43,109, alpha-D-Glucose 1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,110, D-fructose 1,6-bisphosphate, O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-11 11:46:43,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-11 11:46:43,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-11 11:46:43,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-12 15:06:05,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-12 15:06:05,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-12 15:06:05,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:05,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-12 15:06:05,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:05,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-12 15:06:05,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:05,12, L-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:05,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:05,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-12 15:06:05,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-12 15:06:05,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-12 15:06:05,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:05,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-12 15:06:05,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-12 15:06:05,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-12 15:06:05,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-12 15:06:05,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:05,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:05,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-12 15:06:05,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-12 15:06:05,27, L-Xylitol-5-P    , C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:05,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-12 15:06:05,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-12 15:06:05,30, D-Galactitol-1-P  , OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-12 15:06:05,31, D-Mannitol-1-P    , C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-12 15:06:05,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:05,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,36, 2-deoxyribose 5-phosphate , C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-12 15:06:05,37, D-Xylose-5-P      , C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,38, L-Xylose-5-P      , C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,39, D-Lyxose-5-P      , C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:05,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-12 15:06:05,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:05,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:05,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:05,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:05,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-12 15:06:05,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-12 15:06:05,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-12 15:06:05,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-12 15:06:05,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-12 15:06:05,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-12 15:06:05,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-12 15:06:05,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-12 15:06:05,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-12 15:06:05,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-12 15:06:05,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-12 15:06:05,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-12 15:06:05,63, UDP , C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-12 15:06:05,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-12 15:06:05,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-12 15:06:05,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-12 15:06:05,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-12 15:06:05,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-12 15:06:05,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-12 15:06:05,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-12 15:06:05,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-12 15:06:05,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-12 15:06:05,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-12 15:06:05,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-12 15:06:05,75, Uridine-5'-diphosphoglucuronic acid , C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-12 15:06:05,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-12 15:06:05,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-12 15:06:05,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-12 15:06:05,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-12 15:06:05,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-12 15:06:05,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-12 15:06:05,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:05,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-12 15:06:05,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-12 15:06:05,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-12 15:06:05,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-12 15:06:05,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-12 15:06:05,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-12 15:06:05,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-12 15:06:05,97, UMP , C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-12 15:06:05,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-12 15:06:05,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-12 15:06:05,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-12 15:06:05,101, GMP , C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-12 15:06:05,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-12 15:06:05,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-12 15:06:05,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-12 15:06:05,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-12 15:06:05,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-12 15:06:05,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-12 15:06:05,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:05,109, alpha-D-Glucose 1,6-bisphosphate , C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,110, D-fructose 1,6-bisphosphate , O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-12 15:06:05,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:05,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:05,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,1, Glycolic Acid-O-P, OC(=O)CO 
+2022-07-12 15:06:47,2, 3-phosphoglyceric acid (glycerol 3 phosphate), C(C(C(=O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,3, 2-phosphoglyceric acid (glycerol 2-phosphate), C(C(C(=O)O)OP(=O)(O)O)O 
+2022-07-12 15:06:47,4, Phospho(enol)pyruvic acid (PEP), O=C(O)C(OP(=O)(O)O)=C 
+2022-07-12 15:06:47,5, D-threonate-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,6, D-erythronate-4-phosphate, C(C(C(C(=O)[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:47,7, L-erythronate-4-phosphate, [O-]P([O-])(=O)OC[C@@H](O)[C@@H](O)C=O 
+2022-07-12 15:06:47,8, D-Ribonate-5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,9, D-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:47,10, D-2-deoxy-Ribonate-5-phosphate, C1[C@@H]([C@H](OC1O)COP(=O)(O)O)O 
+2022-07-12 15:06:47,11, D-Lyxonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:47,12, L-Arabinonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:47,13, D-Xylonate-5-phosphate, C(C(C(C(C(=O)[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:47,14, L-Xylonate-3-phosphate, C(C(C(C(C(=O)[O-])O)O)O)O 
+2022-07-12 15:06:47,15, 2-keto-3-deoxy-6-Phosphogluconate (KDPG), C(C(C(COP(=O)(O)O)O)O)C(=O)C(=O)O 
+2022-07-12 15:06:47,16, 2-deoxy-6-Phosphogluconate, C(C(C(C(COP(=O)(O)O)O)O)O)C(=O)O 
+2022-07-12 15:06:47,17, D-Mannonate-6-phosphate, C(C(C(C(C(C(=O)[O-])O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:47,18, D-Allonate-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,19, 2-deoxy-D-manno-2-octoulosonate-8-phosphate, C1C(C(C(OC1(C(=O)O)O)C(COP(=O)(O)O)O)O)O 
+2022-07-12 15:06:47,20, N-acetylneuraminic acid-9-phosphate, CC(=O)NC1C(CC(OC1C(C(COP(=O)(O)O)O)O)(C(=O)O)O)O 
+2022-07-12 15:06:47,21, Glycerol-phosphate (GP), C(C(CO)O)O.OP(=O)(O)O 
+2022-07-12 15:06:47,22, D-Threitol-4-phosphate, C(C(C(CO)O)O)O 
+2022-07-12 15:06:47,23, D-Ribitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:47,24, D-xylitol-5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:47,25, D-2-deoxy-ribitol-5-phosphate, C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-12 15:06:47,26, D-arabitol-5-phosphate, C(C(C(C(COP(=O)([O-])[O-])O)O)O)O 
+2022-07-12 15:06:47,27, L-Xylitol-5-P    , C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:47,28, D-mannitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-12 15:06:47,29, D-galactitol-6-phosphate, C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-12 15:06:47,30, D-Galactitol-1-P  , OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)COP(=O)(O)O 
+2022-07-12 15:06:47,31, D-Mannitol-1-P    , C(C(C(C(C(COP(=O)(O)O)O)O)O)O)O 
+2022-07-12 15:06:47,32, DL-glyceraldehyde 3-phosphate, C(C(C=O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,33, erythrose-4-phosphate, C(C(C(C=O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,34, arabinose 5-phosphate, C(C(C(C(COP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:47,35, D-Ribose 5-phosphate, C(C1C(C(C(O1)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,36, 2-deoxyribose 5-phosphate , C1C(C(OC1O)COP(=O)(O)O)O 
+2022-07-12 15:06:47,37, D-Xylose-5-P      , C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,38, L-Xylose-5-P      , C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,39, D-Lyxose-5-P      , C(C(C(C(C=O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,40, alpha-D-glucose-1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:47,41, D-glucose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,42, 2-Deoxy-D-glucose 6-phosphate, C1C(C(C(OC1O)COP(=O)(O)O)O)O 
+2022-07-12 15:06:47,43, alpha D-galactose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:47,44, alpha-D-mannose 1-phosphate, C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:47,45, D-mannose 6-phosphate, C(C1C(C(C(C(O1)O)O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:47,46, 6-phosphogluconic acid, C(C(C(C(C(C(=O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,47, D-Galactose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,48, D-allose-6-phosphate, C(C(C(C(C(C=O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,49, D-2-keto-glucose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:47,50, O-phosphorylethanolamine, C(COP(=O)(O)O)N 
+2022-07-12 15:06:47,51, phosphocholine, C[N+](C)(C)CCOP(=O)(O)O 
+2022-07-12 15:06:47,52, O-phospho-L-serine, C(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-12 15:06:47,53, O-phospho-L-threonine, CC(C(C(=O)O)N)OP(=O)(O)O 
+2022-07-12 15:06:47,54, O-phospho-L-tyrosine, C1=CC(=CC=C1CC(C(=O)O)N)OP(=O)(O)O 
+2022-07-12 15:06:47,55, Histidinol-phosphate (not stable), C1=C(NC=N1)CC(COP(=O)(O)O)N 
+2022-07-12 15:06:47,56, glucosamine 6 phosphate, C(C1C(C(C(C(O1)O)N)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,57, N-acetyl-mannosamine-6-phosphate, CC(=O)NC1C(C(C(OC1O)COP(=O)([O-])[O-])O)O 
+2022-07-12 15:06:47,58, imidodiphosphate (PNP), N(P(=O)(O)O)P(=O)(O)O 
+2022-07-12 15:06:47,59, thiamine pyrophosphate, CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O.[Cl-] 
+2022-07-12 15:06:47,60, ATP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-12 15:06:47,61, ADP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N 
+2022-07-12 15:06:47,62, UTP, C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-12 15:06:47,63, UDP , C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-12 15:06:47,64, TTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-12 15:06:47,65, CTP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-12 15:06:47,66, CDP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-12 15:06:47,67, GTP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-12 15:06:47,68, GDP, C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-12 15:06:47,69, ITP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-12 15:06:47,70, IDP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O 
+2022-07-12 15:06:47,71, dATP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-12 15:06:47,72, dCTP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-12 15:06:47,73, dGTP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-12 15:06:47,74, dTTP, CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O 
+2022-07-12 15:06:47,75, Uridine-5'-diphosphoglucuronic acid , C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OC3C(C(C(C(O3)C(=O)O)O)O)O)O)O 
+2022-07-12 15:06:47,76, trehalose-6-phosphate, C(C1C(C(C(C(O1)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O)O 
+2022-07-12 15:06:47,77, sucrose 6-phosphate, C(C1C(C(C(O1)(CO)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O)O)O 
+2022-07-12 15:06:47,78, p-nitrophenylphosphate (pNPP), C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O 
+2022-07-12 15:06:47,79, acetyl-phosphate, CC(=O)OP(=O)(O)O 
+2022-07-12 15:06:47,80, Carbamyl phosphate, C(=O)(N)OP(=O)([O-])[O-] 
+2022-07-12 15:06:47,81, dihydroxyacetone phosphate (DHAP), C(C(=O)COP(=O)(O)O)O 
+2022-07-12 15:06:47,82, D-xylulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,83, D-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,84, L-ribulose-5-phosphate, C(C(C(C(=O)CO)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,85, D-Fructose 6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,86, D-tagatose-6-phosphate, C(C1C(C(C(O1)(CO)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,87, D-psicose-6-phosphate, C(C(C(C(C(=O)CO)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,88, L-sorbose-1-phosphate, C(C(C(C(C(=O)COP(=O)(O)O)O)O)O)O 
+2022-07-12 15:06:47,89, D-sedoheptulose-7-phosphate, C(C(C(C(C(C(=O)CO)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,90, pyridoxal-5'-phosphate, CC1=NC=C(C(=C1O)C=O)COP(=O)(O)O 
+2022-07-12 15:06:47,91, Coenzyme A (CoA), CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCS)O 
+2022-07-12 15:06:47,92, riboflavin-5-phosphate (FMN), CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O 
+2022-07-12 15:06:47,93, beta-Nicotinamide adenine dinucleotide phosphate (NADP), C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N 
+2022-07-12 15:06:47,94, 5'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O)N 
+2022-07-12 15:06:47,95, 3'-AMP, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)O)O)N 
+2022-07-12 15:06:47,96, dAMP, C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)([O-])[O-])O 
+2022-07-12 15:06:47,97, UMP , C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-12 15:06:47,98, dUMP, C1C(C(OC1N2C=CC(=O)NC2=O)COP(=O)(O)O)O 
+2022-07-12 15:06:47,99, CMP, C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)O)O)O 
+2022-07-12 15:06:47,100, dCMP, C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O 
+2022-07-12 15:06:47,101, GMP , C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)O)N=C(NC2=O)N 
+2022-07-12 15:06:47,102, dGMP, C1C(C(OC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)[O-])O.O.[Na+] 
+2022-07-12 15:06:47,103, IMP, C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)COP(=O)(O)O)O)O 
+2022-07-12 15:06:47,104, Adenosine 3',5'-diphosphate, C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)OP(=O)(O)O)O)N 
+2022-07-12 15:06:47,105, phosphonoformic acid (PFA), C(=O)(O)P(=O)(O)O 
+2022-07-12 15:06:47,106, N-phosphonomethyl glycine (PMG), C(C(=O)O)NCP(=O)(O)O 
+2022-07-12 15:06:47,107, DL-2-Amino-3-phosphonopropionic acid (APPA), C(C(C(=O)O)N)P(=O)(O)O 
+2022-07-12 15:06:47,108, 5-phosphoribosyl-1-pyrophosphate, C(C1C(C(C(O1)OP(=O)([O-])OP(=O)([O-])[O-])O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:47,109, alpha-D-Glucose 1,6-bisphosphate , C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,110, D-fructose 1,6-bisphosphate , O.[Na+].[Na+].[Na+].O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)C(=O)COP(O)([O-])=O 
+2022-07-12 15:06:47,111, beta-glucose-1,6-bisphosphate, C(C1C(C(C(C(O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-] 
+2022-07-12 15:06:47,112, D-glycero-beta-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
+2022-07-12 15:06:47,113, D-glycero-alpha-D-manno-heptose-1,7-bisphosphate, C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)OP(=O)(O)O 
